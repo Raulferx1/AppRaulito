@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppRaulito</string>
+
+
+    <string name="tipo">Tipo</string>
+
+    <array name="spinner_options">
+        <item>Trucha Marrón</item>
+        <item>Trucha Arcoiris</item>
+        <item>Salmon Chinook</item>
+    </array>
+
+</resources>
