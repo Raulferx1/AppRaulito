@@ -103,7 +103,7 @@ public class Adaptador extends BaseAdapter {
                                     especie.getText().toString(),
                                     longitud.getText().toString(),
                                     peso.getText().toString(),
-                                    horaCaptura.getText().toString()); // Cambio a "Hora de Captura"
+                                    horaCaptura.getText().toString());
                             dao.editar(p);
                             lista = dao.verTodo();
                             notifyDataSetChanged();
